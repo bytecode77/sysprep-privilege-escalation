@@ -1,7 +1,6 @@
 ﻿# Sysprep Volatile Environment LPE
 
-**Important:** This exploit is from 2017 and not the known Sysprep exploit found
-in Windows 7!
+**Important: This exploit is from 2017 and not the known Sysprep exploit found in Windows 7!**
 
 | Exploit Information |                                   |
 |:------------------- |:--------------------------------- |
@@ -10,8 +9,6 @@ in Windows 7!
 | Tested on           | Windows 8-10, x86 and x64         |
 
 ## Description
-
-**Important: This exploit is from 2017 and not the known Sysprep exploit found in Windows 7!**
 
 There is a known UAC bypass vulnerability that was first discovered in Windows 7 Release Candidate. Due to sysprep.exe being in a sub directory, DLL hijacking was possible. In Windows 8 and above, this issue is fixed, Windows 7 is not patched to this day.
 
