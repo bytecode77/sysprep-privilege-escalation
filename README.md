@@ -17,7 +17,7 @@ So much for the past, moving on. Sysprep was patched by loading some DLL's from 
 Let's look at Sysprep's manifest:
 
 ```xml
-﻿<!--
+<!--
     Specifically load these DLLs from the specified path. This
     is done as a defence-in-depth approach to closing a known UAC
     exploit related to sysprep.exe being auto-elevated. The list
@@ -54,7 +54,7 @@ When everything worked correctly, Payload.exe should be executed, displaying bas
 
 Compiled binaries with example payload:
 
-[![](http://bytecode77.com/public/fileicons/zip.png) SysprepVolatileEnvironmentLPE.zip](https://bytecode77.com/downloads/SysprepVolatileEnvironmentLPE.zip)
+[![](http://bytecode77.com/public/fileicons/zip.png) SysprepVolatileEnvironmentLPE.zip](https://downloads.bytecode77.com/SysprepVolatileEnvironmentLPE.zip)
 (**ZIP Password:** bytecode77)
 
 ## Project Page
