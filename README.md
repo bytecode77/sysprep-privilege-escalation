@@ -48,7 +48,7 @@ Why more reliable? Because no explorer.exe injection with IFileOperation is requ
 
 When everything worked correctly, Payload.exe should be executed, displaying basic information including integrity level.
 
-![](https://bytecode77.com/images/pages/sysprep-privilege-escalation/result.png)
+![](https://bytecode77.com/images/pages/sysprep-privilege-escalation/result.webp)
 
 ## Downloads
 
